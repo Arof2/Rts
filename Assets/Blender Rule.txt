@@ -1,0 +1,2 @@
+1x1 Block = in Blender 8x8
+2x2 Block = in Blender 16x16
